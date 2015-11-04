@@ -11,6 +11,7 @@ public class LoginBaseCripts extends SricptBasepage{
 	public void login(){
 		Mindtree().homePage().loginlink();
 		Mindtree().homePage().Alltag();
+		Mindtree().homePage().hashCode();
 		
 	}
 }
